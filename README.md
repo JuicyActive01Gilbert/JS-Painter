@@ -9,5 +9,3 @@ const PAINTER_TYPE_TEXT = "PAINTER.Text"; //字符
 const PAINTER_TYPE_ARC = "PAINTER.Arc"; //弧形
 const PAINTER_TYPE_RECT = "PAINTER.Rect";//矩形
 const PAINTER_TYPE_PATH = "PAINTER.Path"; //路径
-
-
